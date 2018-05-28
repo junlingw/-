@@ -1,0 +1,2 @@
+# -
+the information of contest
